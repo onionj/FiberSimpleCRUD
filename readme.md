@@ -7,6 +7,8 @@
 - &#x2610; real database
 - &#x2610; redis for limiter middleware storage
 - &#x2610; docker and docker compose
+- &#x2610; jwt
+- &#x2610; CORS
 
 ### Create:
 
